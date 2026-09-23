@@ -11,3 +11,6 @@ Format: one line per item, newest at the bottom.
 
 ## Entries
 
+- 2026-09-23 | Google Gemini 3.8 Flash TTS and Flash-Lite TTS | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
+- 2026-09-23 | Deepgram Nova-3 | https://developers.deepgram.com/changelog
+- 2026-09-23 | Telnyx Medical Speech-to-Text | https://telnyx.com/release-notes
