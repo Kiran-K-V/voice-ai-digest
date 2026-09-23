@@ -11,3 +11,5 @@ Format: one line per item, newest at the bottom.
 
 ## Entries
 
+- 2026-09-23 | Gemini 3.8 Flash TTS & Flash-Lite TTS | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
+- 2026-09-23 | Qwen-Audio-3.1 | https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/
