@@ -16,3 +16,6 @@ Format: one line per item, newest at the bottom.
 - 2026-09-24 | NVIDIA Nemotron 3 Diarization | https://huggingface.co/blog/nvidia/nemotron-diarization
 - 2026-09-25 | LiveKit acquires Loophole Labs | https://fortune.com/press-releases/livekit-acquires-loophole-labs-ai-agent-infrastructure-2026-09-24/
 - 2026-09-26 | Pipecat 1.12.0 (Daily) | https://github.com/pipecat-ai/pipecat/releases/tag/v1.12.0
+- 2026-09-29 | ElevenLabs Eleven v4 | https://elevenlabs.io/blog/eleven-v4
+- 2026-09-29 | LiveKit Agents 1.8.3 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.3
+- 2026-09-29 | Modulate $25M funding | https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
