@@ -19,3 +19,6 @@ Format: one line per item, newest at the bottom.
 - 2026-09-29 | ElevenLabs Eleven v4 | https://elevenlabs.io/blog/eleven-v4
 - 2026-09-29 | LiveKit Agents 1.8.3 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.3
 - 2026-09-29 | Modulate $25M funding | https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
+- 2026-09-30 | Inception Mercury Voice | https://www.inceptionlabs.ai/blog/introducing-mercury-voice
+- 2026-09-30 | MultiTalk (arXiv) | https://arxiv.org/abs/2609.36903
+- 2026-09-30 | WenetSpeech-Min (arXiv) | https://arxiv.org/abs/2609.36834
