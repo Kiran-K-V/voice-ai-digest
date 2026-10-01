@@ -22,3 +22,5 @@ Format: one line per item, newest at the bottom.
 - 2026-09-30 | Inception Mercury Voice | https://www.inceptionlabs.ai/blog/introducing-mercury-voice
 - 2026-09-30 | MultiTalk (arXiv) | https://arxiv.org/abs/2609.36903
 - 2026-09-30 | WenetSpeech-Min (arXiv) | https://arxiv.org/abs/2609.36834
+- 2026-10-01 | Inworld acquires Ultravox | https://inworld.ai/blog/inworld-acquires-ultravox
+- 2026-10-01 | ElevenLabs $22B valuation | https://elevenlabs.io/blog/tender-22bn
