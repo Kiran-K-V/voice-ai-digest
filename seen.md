@@ -24,3 +24,7 @@ Format: one line per item, newest at the bottom.
 - 2026-09-30 | WenetSpeech-Min (arXiv) | https://arxiv.org/abs/2609.36834
 - 2026-10-01 | Inworld acquires Ultravox | https://inworld.ai/blog/inworld-acquires-ultravox
 - 2026-10-01 | ElevenLabs $22B valuation | https://elevenlabs.io/blog/tender-22bn
+- 2026-10-02 | Microsoft MAI-Transcribe-2-Streaming and MAI-Voice-2.1 | https://microsoft.ai/news/our-first-streaming-transcription-model/
+- 2026-10-02 | LiveKit Agents 1.8.4 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.4
+- 2026-10-02 | Deepgram Self-Hosted 261001 | https://developers.deepgram.com/changelog
+- 2026-10-02 | Deepslate €7.7M seed | https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform
