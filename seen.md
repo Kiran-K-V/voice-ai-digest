@@ -28,3 +28,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-02 | LiveKit Agents 1.8.4 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.4
 - 2026-10-02 | Deepgram Self-Hosted 261001 | https://developers.deepgram.com/changelog
 - 2026-10-02 | Deepslate €7.7M seed | https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform
+- 2026-10-03 | Cactus Compute Whistle | https://cactuscompute.com/blog/whistle
+- 2026-10-03 | Deepgram Nova-3 mid-stream keyterms | https://developers.deepgram.com/changelog
