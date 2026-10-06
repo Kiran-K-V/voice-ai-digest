@@ -30,3 +30,7 @@ Format: one line per item, newest at the bottom.
 - 2026-10-02 | Deepslate €7.7M seed | https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform
 - 2026-10-03 | Cactus Compute Whistle | https://cactuscompute.com/blog/whistle
 - 2026-10-03 | Deepgram Nova-3 mid-stream keyterms | https://developers.deepgram.com/changelog
+- 2026-10-06 | LiveKit Agents 1.8.5 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.5
+- 2026-10-06 | Deepgram Nova-3 language update | https://developers.deepgram.com/changelog
+- 2026-10-06 | Paradee (arXiv) | https://arxiv.org/abs/2610.06817
+- 2026-10-06 | EchoChat (arXiv) | https://arxiv.org/abs/2610.04826
