@@ -34,3 +34,9 @@ Format: one line per item, newest at the bottom.
 - 2026-10-06 | Deepgram Nova-3 language update | https://developers.deepgram.com/changelog
 - 2026-10-06 | Paradee (arXiv) | https://arxiv.org/abs/2610.06817
 - 2026-10-06 | EchoChat (arXiv) | https://arxiv.org/abs/2610.04826
+- 2026-10-07 | Sierra Tandem Voice and Persona Studio | https://sierra.ai/blog/summit-recap-2026
+- 2026-10-07 | PolyAI Dialog-RSN-1 on AWS SageMaker | https://poly.ai/blog/dialog-rsn-1-aws-sagemaker
+- 2026-10-07 | ElevenLabs ElevenAgents Architect | https://elevenlabs.io/blog/elevenagents-architect
+- 2026-10-07 | Vocca $20M Series A | https://www.norrsken.vc/news/vocca
+- 2026-10-07 | DyaFDB (arXiv) | https://arxiv.org/abs/2610.08125
+- 2026-10-07 | HiPLEX (arXiv) | https://arxiv.org/abs/2610.07727
