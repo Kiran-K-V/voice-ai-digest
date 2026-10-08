@@ -40,3 +40,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-07 | Vocca $20M Series A | https://www.norrsken.vc/news/vocca
 - 2026-10-07 | DyaFDB (arXiv) | https://arxiv.org/abs/2610.08125
 - 2026-10-07 | HiPLEX (arXiv) | https://arxiv.org/abs/2610.07727
+- 2026-10-08 | Deepgram Nova-3 Medical update | https://developers.deepgram.com/changelog
+- 2026-10-08 | Automation Anywhere to acquire Boost.ai | https://www.automationanywhere.com/company/press-room/conversational-ai-finally-connected-work-automation-anywhere-acquire-boostai
