@@ -44,3 +44,4 @@ Format: one line per item, newest at the bottom.
 - 2026-10-08 | Automation Anywhere to acquire Boost.ai | https://www.automationanywhere.com/company/press-room/conversational-ai-finally-connected-work-automation-anywhere-acquire-boostai
 - 2026-10-09 | DiffuPlex (arXiv) | https://arxiv.org/abs/2610.12214
 - 2026-10-09 | SteerablePlex (arXiv) | https://arxiv.org/abs/2610.12201
+- 2026-10-10 | LiveKit Agents 1.8.6 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.6
