@@ -49,3 +49,6 @@ Format: one line per item, newest at the bottom.
 - 2026-10-12 | EAGLE-ASR (arXiv) | https://arxiv.org/abs/2610.13506
 - 2026-10-14 | Telnyx AI Assistant Avatars (beta) | https://telnyx.com/release-notes/ai-assistant-avatars-beta
 - 2026-10-14 | Basis Global Emotions dataset | https://huggingface.co/blog/basis-ai/global-emotions
+- 2026-10-15 | xAI Grok Voice 3.0 | https://docs.x.ai/developers/release-notes
+- 2026-10-15 | Gnani.ai Timbre v3.0 | https://www.gnani.ai/resources/blogs/introducing-gnani-timbre-v3-0-with-audio-tags-for-indian-languages
+- 2026-10-15 | LiveKit Agents 1.8.7 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.7
