@@ -55,3 +55,4 @@ Format: one line per item, newest at the bottom.
 - 2026-10-16 | LiveKit Agents 1.8.8 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.8
 - 2026-10-16 | IBM Granite Switch 4.1 | https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 - 2026-10-18 | OpenAI GPT-Live prompt-to-voice | https://developers.openai.com/api/docs/changelog
+- 2026-10-19 | Jarvis (arXiv) | https://arxiv.org/abs/2610.23804
