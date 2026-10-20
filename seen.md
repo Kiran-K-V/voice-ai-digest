@@ -56,3 +56,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-16 | IBM Granite Switch 4.1 | https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 - 2026-10-18 | OpenAI GPT-Live prompt-to-voice | https://developers.openai.com/api/docs/changelog
 - 2026-10-19 | Jarvis (arXiv) | https://arxiv.org/abs/2610.23804
+- 2026-10-20 | Ant Group inclusionAI Ming-3.0-tts | https://github.com/inclusionAI/Ming-3.0-tts
+- 2026-10-20 | Pipecat 1.13.0 (Daily) | https://github.com/pipecat-ai/pipecat/releases/tag/v1.13.0
