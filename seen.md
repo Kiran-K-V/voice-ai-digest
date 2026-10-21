@@ -58,3 +58,7 @@ Format: one line per item, newest at the bottom.
 - 2026-10-19 | Jarvis (arXiv) | https://arxiv.org/abs/2610.23804
 - 2026-10-20 | Ant Group inclusionAI Ming-3.0-tts | https://github.com/inclusionAI/Ming-3.0-tts
 - 2026-10-20 | Pipecat 1.13.0 (Daily) | https://github.com/pipecat-ai/pipecat/releases/tag/v1.13.0
+- 2026-10-21 | Mistral Voxtral 3 | https://mistral.ai/news/voxtral-3
+- 2026-10-21 | Gradium Phonon | https://gradium.ai/blog/release-phonon-open-weight
+- 2026-10-21 | VISH-ASR (arXiv) | https://arxiv.org/abs/2610.27867
+- 2026-10-21 | RealComm (arXiv) | https://arxiv.org/abs/2610.27459
