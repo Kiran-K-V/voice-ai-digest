@@ -62,3 +62,6 @@ Format: one line per item, newest at the bottom.
 - 2026-10-21 | Gradium Phonon | https://gradium.ai/blog/release-phonon-open-weight
 - 2026-10-21 | VISH-ASR (arXiv) | https://arxiv.org/abs/2610.27867
 - 2026-10-21 | RealComm (arXiv) | https://arxiv.org/abs/2610.27459
+- 2026-10-22 | IBM Granite Speech 5.0 | https://huggingface.co/blog/ibm-granite/granite-speech-5
+- 2026-10-22 | ElevenLabs Eleven Realtime Translation | https://elevenlabs.io/blog/realtime-translation
+- 2026-10-22 | RubatoCodec (arXiv) | https://arxiv.org/abs/2610.29434
