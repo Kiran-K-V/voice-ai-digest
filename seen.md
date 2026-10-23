@@ -65,3 +65,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-22 | IBM Granite Speech 5.0 | https://huggingface.co/blog/ibm-granite/granite-speech-5
 - 2026-10-22 | ElevenLabs Eleven Realtime Translation | https://elevenlabs.io/blog/realtime-translation
 - 2026-10-22 | RubatoCodec (arXiv) | https://arxiv.org/abs/2610.29434
+- 2026-10-23 | HeyGen Voice (arXiv) | https://arxiv.org/abs/2610.30470
+- 2026-10-23 | Spark-Audio 1.0 (arXiv) | https://arxiv.org/abs/2610.31292
