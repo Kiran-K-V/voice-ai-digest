@@ -67,3 +67,7 @@ Format: one line per item, newest at the bottom.
 - 2026-10-22 | RubatoCodec (arXiv) | https://arxiv.org/abs/2610.29434
 - 2026-10-23 | HeyGen Voice (arXiv) | https://arxiv.org/abs/2610.30470
 - 2026-10-23 | Spark-Audio 1.0 (arXiv) | https://arxiv.org/abs/2610.31292
+- 2026-10-24 | Deepgram Nova-3 Multilingual | https://developers.deepgram.com/changelog/2026/10/23
+- 2026-10-24 | Block Dessa | https://block.xyz/dessa
+- 2026-10-24 | LiveKit Agents 1.8.9 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.9
+- 2026-10-24 | Pipecat 1.14.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.14.0
