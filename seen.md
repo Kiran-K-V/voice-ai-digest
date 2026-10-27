@@ -71,3 +71,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-24 | Block Dessa | https://block.xyz/dessa
 - 2026-10-24 | LiveKit Agents 1.8.9 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.9
 - 2026-10-24 | Pipecat 1.14.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.14.0
+- 2026-10-27 | Microsoft Azure AI Speech LLM 09-2026 | https://devblogs.microsoft.com/foundry/announcing-azure-ai-speech-llm-09-2026/
+- 2026-10-27 | Ollama speech models | https://ollama.com/blog/speech-models
