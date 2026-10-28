@@ -73,3 +73,6 @@ Format: one line per item, newest at the bottom.
 - 2026-10-24 | Pipecat 1.14.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.14.0
 - 2026-10-27 | Microsoft Azure AI Speech LLM 09-2026 | https://devblogs.microsoft.com/foundry/announcing-azure-ai-speech-llm-09-2026/
 - 2026-10-27 | Ollama speech models | https://ollama.com/blog/speech-models
+- 2026-10-28 | Liquid AI LFM3-Audio-2B | https://huggingface.co/blog/LiquidAI/lfm3
+- 2026-10-28 | S3-S2ST (arXiv) | https://arxiv.org/abs/2610.36777
+- 2026-10-28 | AudioRSI (arXiv) | https://arxiv.org/abs/2610.36578
