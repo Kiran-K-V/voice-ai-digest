@@ -76,3 +76,6 @@ Format: one line per item, newest at the bottom.
 - 2026-10-28 | Liquid AI LFM3-Audio-2B | https://huggingface.co/blog/LiquidAI/lfm3
 - 2026-10-28 | S3-S2ST (arXiv) | https://arxiv.org/abs/2610.36777
 - 2026-10-28 | AudioRSI (arXiv) | https://arxiv.org/abs/2610.36578
+- 2026-10-29 | NVIDIA Nemotron 3.5 Transcribe | https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
+- 2026-10-29 | Rime Prism | https://www.prnewswire.com/news-releases/rime-launches-prism-the-first-fine-tunable-frontier-speech-to-speech-model-302922665.html
+- 2026-10-29 | Gnani.ai Prisma v3.0 | https://www.gnani.ai/resources/blogs/prisma-v3-0-speech-recognition
