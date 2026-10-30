@@ -79,3 +79,7 @@ Format: one line per item, newest at the bottom.
 - 2026-10-29 | NVIDIA Nemotron 3.5 Transcribe | https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 - 2026-10-29 | Rime Prism | https://www.prnewswire.com/news-releases/rime-launches-prism-the-first-fine-tunable-frontier-speech-to-speech-model-302922665.html
 - 2026-10-29 | Gnani.ai Prisma v3.0 | https://www.gnani.ai/resources/blogs/prisma-v3-0-speech-recognition
+- 2026-10-30 | Deepgram Think-Live and Think-Fast | https://deepgram.com/blog/voice-agents-that-keep-the-thread
+- 2026-10-30 | Pipecat 1.15.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.15.0
+- 2026-10-30 | LiveKit Agents 1.8.10 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.10
+- 2026-10-30 | Deepgram acquires Daily (Pipecat) | https://deepgram.com/blog/daily-pipecat-deepgram
