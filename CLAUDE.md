@@ -3,9 +3,13 @@
 You run as an unattended Claude Code cloud routine every day at 09:00 IST.
 Your job: find every significant voice AI development since the last digest,
 verify each one, and post a short digest to Slack. Readers are engineers who
-build voice agents. They want to know what shipped, what changed, and what
-they can use. Missing a major release is worse than posting a short digest.
-Posting an invented or wrong item is worst of all.
+build voice agents. They will try each item themselves and compare results,
+so every item must be something they can try today. For each item, say how
+to try it, and name competitors to try next to it. Mark each one as
+tryable or not tryable. Missing a major release is worse than posting a
+short digest. Posting an invented or wrong item is worst of all.
+
+Papers, research, funding, and policy news are not part of this digest.
 
 Do the steps below in order. Do not skip a step.
 
@@ -50,13 +54,11 @@ year to queries to get fresh results.
 - Telephony and infrastructure for voice agents: SIP, WebRTC, phone
   numbers, call handling, if the change matters to voice agent builders.
 - Benchmarks and leaderboards: new results that change rankings
-  (for example the Hugging Face Open ASR Leaderboard, TTS Arena).
-- Funding rounds (about USD 10M or more), acquisitions, and shutdowns of
-  voice AI companies.
-- Research papers with a clear new result (new SOTA, new architecture,
-  new open dataset or model).
-- Regulation or policy that directly affects voice AI (for example rules
-  on voice cloning or AI phone calls).
+  (for example the Hugging Face Open ASR Leaderboard, TTS Arena). Include
+  one only if the top model can be tried today.
+- Shutdowns and deprecations of voice AI products that builders use today.
+
+Only items that readers can try now are in scope. See Step 3.
 
 ### Companies and projects to check
 
@@ -88,8 +90,10 @@ features or breaking changes. Skip patch releases that only fix bugs.
 ### Sources
 
 - Vendor blogs, changelogs, docs release notes, and GitHub releases.
-- Hugging Face: models sorted by trending (audio tasks), blog, daily papers.
-- arXiv: cs.CL, cs.SD, eess.AS (new submissions in the window).
+- Hugging Face: models sorted by trending (audio tasks), Spaces (live demos),
+  blog. Do not use the papers pages.
+- Vendor playgrounds, demo pages, pricing pages, and quickstart docs. These
+  show how to try an item.
 - Hacker News (search "voice", "speech", "TTS", "STT", "realtime").
 - Tech news: TechCrunch, The Verge, VentureBeat, The Decoder,
   MarkTechPost, Inc42 and YourStory (for India).
@@ -107,7 +111,8 @@ Adapt these. Replace <Month YYYY> with the current month and year.
 - `LiveKit agents release` / `Pipecat release`
 - `<vendor> announces` for each major vendor above
 - `open source TTS model Hugging Face`
-- `arxiv speech language model` / `arxiv text-to-speech`
+- `voice agent playground free tier <Month YYYY>`
+- `<vendor> alternatives` and `<product> vs` for each item you find
 
 ## Step 3: Filter
 
@@ -120,7 +125,11 @@ Remove an item if any of these is true:
 - Its publish date is outside the time window.
 - It is out of scope: consumer gadgets or apps that only add a voice feature,
   opinion pieces, listicles, tutorials, webinars, hiring news, minor partner
-  announcements, rumors, or small bug-fix releases.
+  announcements, rumors, small bug-fix releases, research papers (arXiv or
+  other), funding rounds, acquisitions, and regulation or policy news.
+- It is not tryable now. This means announced only, "coming soon", waitlist
+  only, or sales-only access. Readers cannot test these. (Competitors
+  that are not tryable are still allowed in the Compare line. See Step 4.)
 - Two or more results describe the same announcement. Keep one item and use
   the primary source.
 
@@ -135,8 +144,23 @@ For each remaining item:
    primary source exists, for example for funding rounds.
 4. Take facts for the summary (model name, numbers, languages, price) from
    the page. Do not guess numbers.
+5. Find out how a reader can try the item. Open the demo, playground,
+   Hugging Face Space, quickstart, or pricing page. Give the item one status
+   from this list:
+   - `open weights` : download and run it yourself.
+   - `free demo` : browser demo or playground, no payment needed.
+   - `free tier` : API key with free credits.
+   - `paid API` : self-serve signup, but no free credits.
+   If the item is waitlist only, sales-only, or announced only, drop it.
+6. Find 2 or 3 competitors for the same job (for example other TTS APIs
+   when the item is a TTS model). For each competitor, open its demo,
+   pricing, or docs page and give it one status: one of the four above, or
+   `not tryable` (waitlist, sales-only, or no public access). Use only
+   competitors whose status you confirmed on a page you opened in this run.
+   Drop a competitor you cannot confirm. Do not guess a status.
 
-If you cannot confirm the page or the date, drop the item.
+If you cannot confirm the page, the date, or how to try the item, drop the
+item.
 
 ## Step 5: Rank
 
@@ -146,8 +170,10 @@ Order items by importance to voice agent builders:
 2. Open-weights models that reach or beat the state of the art.
 3. Major platform and framework releases (for example LiveKit, Pipecat, Vapi).
 4. Big pricing, latency, or language coverage changes.
-5. Funding and acquisitions.
-6. Research papers and benchmarks.
+5. Benchmark and leaderboard changes, and shutdowns or deprecations.
+
+If two items rank the same, put the one that is easier to try first
+(`open weights` or `free demo` before `free tier`, then `paid API`).
 
 Keep the top 8. If more than 8 items qualify, drop the least important.
 
@@ -157,14 +183,21 @@ Write the digest to `/tmp/digest.txt`:
 
 - First line: `Voice AI update – <date>`, for example
   `Voice AI update – 23 Sep 2026`. Use the IST date.
-- Then up to 8 lines, one per item, most important first:
-  `• <name> – <one-line summary> <link>`
+- Then up to 8 items, most important first. Each item is two lines:
+  `• <name> – <one-line summary> [Try: <status>] <link>`
+  `  Compare: <competitor> (<status>), <competitor> (<status>)`
 - `<name>`: the product or model name and the company, for example
   `Deepgram Nova-4`.
 - `<one-line summary>`: at most 25 words. Say what is new and why it matters,
   with one concrete fact (a number, a language count, a price, a benchmark).
   No hype words ("revolutionary", "game-changing").
-- `<link>`: the verified source URL, bare, at the end of the line.
+- `<status>`: one value from Step 4: `open weights`, `free demo`,
+  `free tier`, `paid API`, or (competitors only) `not tryable`.
+- `<link>`: the verified URL where a reader can try the item or read about
+  it (demo, Space, quickstart, or release page), bare, at the end of the
+  first line.
+- `Compare:` line: 2 or 3 competitors with the status from Step 4.
+  Names and statuses only. No links.
 - If there are no new items, write this single line after the header:
   `No major voice AI updates today.`
 - Plain text only. No Markdown headings, bold, tables, or link syntax.
@@ -173,14 +206,19 @@ Example:
 
 ```
 Voice AI update – 23 Sep 2026
-• Example TTS v2 – Streaming TTS with 120 ms first-byte latency and 30 new voices https://example.com/blog/tts-v2
-• Example STT – Open-weights STT model with 5.1% WER, now first on the Open ASR Leaderboard https://huggingface.co/example/stt
+• Example TTS v2 – Streaming TTS with 120 ms first-byte latency and 30 new voices [Try: free tier] https://example.com/blog/tts-v2
+  Compare: Vendor A TTS (free demo), Vendor B TTS (paid API), Vendor C TTS (not tryable)
+• Example STT – Open-weights STT model with 5.1% WER, now first on the Open ASR Leaderboard [Try: open weights] https://huggingface.co/example/stt
+  Compare: Whisper large (open weights), Vendor D STT (free tier)
 ```
 
 Before you post, check the file:
-- Every line after the header starts with `• ` and ends with a URL.
+- Every `• ` line ends with a URL and has a `[Try: <status>]` tag.
+- Every `• ` line is followed by one `  Compare:` line.
 - Every URL was opened and verified in this run.
+- Every status was confirmed on a page opened in this run.
 - No item is in `seen.md`.
+- No paper, funding, acquisition, or policy item.
 - No more than 8 items.
 
 ## Step 7: Post to Slack
@@ -230,4 +268,4 @@ If posting fails (missing env var, non-2xx status, or a network error):
 End the run with a short report: the time window used, the number of
 searches run, the number of candidates found, the number posted, and the
 items dropped with the reason (duplicate, out of window, unverified,
-out of scope).
+out of scope, not tryable).
