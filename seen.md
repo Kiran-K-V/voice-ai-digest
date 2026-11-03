@@ -83,3 +83,4 @@ Format: one line per item, newest at the bottom.
 - 2026-10-30 | Pipecat 1.15.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.15.0
 - 2026-10-30 | LiveKit Agents 1.8.10 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.10
 - 2026-10-30 | Deepgram acquires Daily (Pipecat) | https://deepgram.com/blog/daily-pipecat-deepgram
+- 2026-11-03 | Vaani AI Research self-serve voice agent platform | https://vaaniresearch.com
