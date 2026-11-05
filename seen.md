@@ -84,3 +84,5 @@ Format: one line per item, newest at the bottom.
 - 2026-10-30 | LiveKit Agents 1.8.10 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.10
 - 2026-10-30 | Deepgram acquires Daily (Pipecat) | https://deepgram.com/blog/daily-pipecat-deepgram
 - 2026-11-03 | Vaani AI Research self-serve voice agent platform | https://vaaniresearch.com
+- 2026-11-05 | Soniox STT v6 | https://soniox.com/blog/soniox-stt-v6
+- 2026-11-05 | Google Gemini 3.8 Flash TTS voice remixing | https://aistudio.google.com/docs/voice-remixing
