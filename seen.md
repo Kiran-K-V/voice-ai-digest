@@ -88,3 +88,4 @@ Format: one line per item, newest at the bottom.
 - 2026-11-05 | Google Gemini 3.8 Flash TTS voice remixing | https://aistudio.google.com/docs/voice-remixing
 - 2026-11-06 | LiveKit Agents 1.8.11 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.11
 - 2026-11-08 | Underdog Woof | https://huggingface.co/ConwayResearch/Underdog-Woof
+- 2026-11-10 | Zyphra ZONOS3-Mini | https://huggingface.co/Zyphra/ZONOS3-Mini
