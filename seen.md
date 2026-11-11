@@ -89,3 +89,4 @@ Format: one line per item, newest at the bottom.
 - 2026-11-06 | LiveKit Agents 1.8.11 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.11
 - 2026-11-08 | Underdog Woof | https://huggingface.co/ConwayResearch/Underdog-Woof
 - 2026-11-10 | Zyphra ZONOS3-Mini | https://huggingface.co/Zyphra/ZONOS3-Mini
+- 2026-11-11 | Underdog Woof Japanese (Conway Research) | https://huggingface.co/ConwayResearch/Underdog-Woof-Japanese
