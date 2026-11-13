@@ -92,3 +92,7 @@ Format: one line per item, newest at the bottom.
 - 2026-11-11 | Underdog Woof Japanese (Conway Research) | https://huggingface.co/ConwayResearch/Underdog-Woof-Japanese
 - 2026-11-12 | DeepL Aure | https://www.deepl.com/products/voice/aure
 - 2026-11-12 | Pipecat 1.16.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.16.0
+- 2026-11-13 | Salesforce SOV-Transcribe-1 | https://huggingface.co/salesforce-sovereign-intelligence/SOV-Transcribe-1
+- 2026-11-13 | LiveKit Cloud API | https://livekit.com/blog/introducing-livekit-cloud-api
+- 2026-11-13 | Kitten TTS 2 Mini (KittenML) | https://huggingface.co/KittenML/kitten-tts-2-mini
+- 2026-11-13 | Deepgram Nova-3 Catalan and Japanese | https://developers.deepgram.com/changelog/2026/11/12
