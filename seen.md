@@ -97,3 +97,4 @@ Format: one line per item, newest at the bottom.
 - 2026-11-13 | Kitten TTS 2 Mini (KittenML) | https://huggingface.co/KittenML/kitten-tts-2-mini
 - 2026-11-13 | Deepgram Nova-3 Catalan and Japanese | https://developers.deepgram.com/changelog/2026/11/12
 - 2026-11-14 | LiveKit Agents 1.8.12 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.12
+- 2026-11-16 | tiny-voca (n4ze3m) | https://huggingface.co/n4ze3m/tiny-voca
