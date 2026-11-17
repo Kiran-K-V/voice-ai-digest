@@ -98,3 +98,5 @@ Format: one line per item, newest at the bottom.
 - 2026-11-13 | Deepgram Nova-3 Catalan and Japanese | https://developers.deepgram.com/changelog/2026/11/12
 - 2026-11-14 | LiveKit Agents 1.8.12 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.12
 - 2026-11-16 | tiny-voca (n4ze3m) | https://huggingface.co/n4ze3m/tiny-voca
+- 2026-11-17 | Deepgram Nova-3 36 new languages | https://developers.deepgram.com/changelog/2026/11/16
+- 2026-11-17 | Twilio Voice HD audio | https://www.twilio.com/en-us/changelog/twilio-voice-is-rolling-out-hd-audio
