@@ -100,3 +100,6 @@ Format: one line per item, newest at the bottom.
 - 2026-11-16 | tiny-voca (n4ze3m) | https://huggingface.co/n4ze3m/tiny-voca
 - 2026-11-17 | Deepgram Nova-3 36 new languages | https://developers.deepgram.com/changelog/2026/11/16
 - 2026-11-17 | Twilio Voice HD audio | https://www.twilio.com/en-us/changelog/twilio-voice-is-rolling-out-hd-audio
+- 2026-11-18 | Microsoft MAI Realtime 1 | https://microsoft.ai/news/introducing-mai-realtime-1/
+- 2026-11-18 | Twilio ConversationRelay updates | https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect
+- 2026-11-18 | Deepgram Nova-3 German and Hindi | https://developers.deepgram.com/changelog/2026/11/17
