@@ -103,3 +103,6 @@ Format: one line per item, newest at the bottom.
 - 2026-11-18 | Microsoft MAI Realtime 1 | https://microsoft.ai/news/introducing-mai-realtime-1/
 - 2026-11-18 | Twilio ConversationRelay updates | https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect
 - 2026-11-18 | Deepgram Nova-3 German and Hindi | https://developers.deepgram.com/changelog/2026/11/17
+- 2026-11-19 | AssemblyAI STT-3.7 | https://www.assemblyai.com/blog/introducing-assemblyai-stt-3-7
+- 2026-11-19 | Microsoft Foundry voice agents | https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/voice-agents-in-microsoft-foundry-agent-service-now-generally-available/4573013
+- 2026-11-19 | LiveKit Agents 1.8.13 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.13
