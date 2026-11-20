@@ -106,3 +106,5 @@ Format: one line per item, newest at the bottom.
 - 2026-11-19 | AssemblyAI STT-3.7 | https://www.assemblyai.com/blog/introducing-assemblyai-stt-3-7
 - 2026-11-19 | Microsoft Foundry voice agents | https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/voice-agents-in-microsoft-foundry-agent-service-now-generally-available/4573013
 - 2026-11-19 | LiveKit Agents 1.8.13 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.13
+- 2026-11-20 | OpenAI GPT-Live-1.1 | https://developers.openai.com/api/docs/models/gpt-live-1.1
+- 2026-11-20 | Software Mansion Reverb-TTS | https://huggingface.co/software-mansion/Reverb-TTS
