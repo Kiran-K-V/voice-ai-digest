@@ -108,3 +108,4 @@ Format: one line per item, newest at the bottom.
 - 2026-11-19 | LiveKit Agents 1.8.13 | https://github.com/livekit/agents/releases/tag/livekit-agents@1.8.13
 - 2026-11-20 | OpenAI GPT-Live-1.1 | https://developers.openai.com/api/docs/models/gpt-live-1.1
 - 2026-11-20 | Software Mansion Reverb-TTS | https://huggingface.co/software-mansion/Reverb-TTS
+- 2026-11-21 | LiveKit Turn Detector v1.1 | https://livekit.com/blog/turn-detector-v1-1
