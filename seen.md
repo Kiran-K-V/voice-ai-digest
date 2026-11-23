@@ -109,3 +109,4 @@ Format: one line per item, newest at the bottom.
 - 2026-11-20 | OpenAI GPT-Live-1.1 | https://developers.openai.com/api/docs/models/gpt-live-1.1
 - 2026-11-20 | Software Mansion Reverb-TTS | https://huggingface.co/software-mansion/Reverb-TTS
 - 2026-11-21 | LiveKit Turn Detector v1.1 | https://livekit.com/blog/turn-detector-v1-1
+- 2026-11-23 | Pipecat 1.17.0 | https://github.com/pipecat-ai/pipecat/releases/tag/v1.17.0
